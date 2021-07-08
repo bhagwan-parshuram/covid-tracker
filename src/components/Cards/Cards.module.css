@@ -1,0 +1,18 @@
+.container {
+  margin: 50px 0px;
+}
+
+.card {
+  margin: 0 2% !important;
+}
+
+.infected {
+  border-top: 20px solid rgb(36, 24, 204);
+}
+
+.recovered {
+  border-top: 20px solid rgb(94, 255, 129);
+}
+.death {
+  border-top: 20px solid rgb(255, 94, 94);
+}
